@@ -1,0 +1,8 @@
+{
+  "agentRequired": false,
+  "agentSupported": false,
+  "description": "",
+  "id": "CTZ_SC1_REST",
+  "role": "SOURCE",
+  "securityPolicy": "BASIC_AUTH"
+}
